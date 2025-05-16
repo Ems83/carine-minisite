@@ -1,0 +1,17 @@
+# Configurações do VSCode
+.vscode/
+
+# Arquivos temporários do sistema (Mac, Windows)
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Pastas de build (caso futuramente tenha)
+dist/
+build/
